@@ -1,6 +1,6 @@
 cask "sheepr" do
-  version "0.1.2"
-  sha256 "4266a3da9607bcf29094ca75d299c4a96a9c63fda0634e8f2f4a1560975bc955"
+  version "0.1.3"
+  sha256 "82d79fb28c3294b02026fda78794812cc7ccebaf33b95d650f8d2224f41006e1"
 
   url "https://github.com/lukaso/sheepr/releases/download/v#{version}/sheepr-macos-universal.tar.gz"
   name "Sheepr"
